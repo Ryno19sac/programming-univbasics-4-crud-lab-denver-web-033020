@@ -37,6 +37,6 @@ def retrieve_last_element_from_array(array)
 end
 
 def update_element_from_index(array, index_number, element)
-array.index(4)
-p array.index(4)
+array.select("totally")
+
 end
